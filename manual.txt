@@ -1,0 +1,8 @@
+you need to  have turboc++ to rub this code here is link:-
+https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/
+
+1.first up all copy code and paste it to notepad 
+2. then save that by making .c ectension in C:\TURBOC3\BIN (location)
+3.then open turboc++ and go to file and click open file 
+4. there choose file that you save just now 
+5. then compile and run
